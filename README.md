@@ -23,7 +23,6 @@
 
 <p align="center">
   <a href="#purchasing">购买前请先看</a> ·
-  <a href="#tg">TG群组</a> ·
   <a href="#contrast">机场对比</a> ·
   <a href="#client">客户端推荐</a> 
 </p>
@@ -57,12 +56,6 @@
 
 </details>
 
-
-<a id="tg"></a>
-## Telegram VPN 机场福利社 #AD
-[机场抽奖群](https://331024.de/archives/choujiang)｜[机场聊天群](https://331024.de/archives/choujiang)｜[机场体验群](https://331024.de/archives/choujiang)</br>
-
-[https://331024.de/archives/choujiang](https://331024.de/archives/choujiang)
 
 <a id="contrast"></a>
 ## 2026年10大稳定好用的机场推荐节点分享
